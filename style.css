@@ -12,3 +12,9 @@ form * {
   display:inline;
 
 }
+
+iframe {
+  width: 100%;
+  height: 400px;
+  mask-border: 1;
+}
